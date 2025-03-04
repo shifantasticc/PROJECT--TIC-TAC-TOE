@@ -16,11 +16,11 @@
 
 ## 📁 Project Structure
 📦 PROJECT--TIC-TAC-TOE 
-├── 📄 index.html # Main HTML structure 
-├── 🎨 style.css # Styling and layout 
-├── ⚡ script.js # Game logic and interactivity 
-├── 📄 README.md # Project documentation 
-└── 📷 assets/ # Images and other assets
+├── 📄 index.html # Main HTML structure <br>
+├── 🎨 style.css # Styling and layout <br>
+├── ⚡ script.js # Game logic and interactivity <br>
+├── 📄 README.md # Project documentation <br>
+└── 📷 assets/ # Images and other assets <br>
 
 
 ## 🔧 Technologies Used
